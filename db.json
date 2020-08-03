@@ -1,0 +1,95 @@
+{
+    "users": [{
+        "id": 1,
+        "pessoa": {
+            "nome": {
+                "value": "Emilly Elaine Novaes",
+                "checked": true
+            },
+            "dataNascimento": {
+                "value": "1988-05-12",
+                "checked": false
+            },
+            "genero": {
+                "value": "FEMININO",
+                "checked": false
+            }
+        },
+        "candidato": {
+            "cargo": {
+                "id": {
+                    "value": 12,
+                    "checked": false
+                },
+                "descricao": {
+                    "value": "Vereador",
+                    "checked": false
+                }
+            },
+            "partido": {
+                "id": {
+                    "value": 45,
+                    "checked": false
+                },
+                "nome": {
+                    "value": "Partido da Social Democracia Brasileira",
+                    "checked": false
+                },
+                "sigla": {
+                    "value": "PSDB",
+                    "checked": false
+                }
+            },
+            "nome": {
+                "value": "Emilly Novaes",
+                "checked": false
+            },
+            "numero": {
+                "value": 45454,
+                "checked": false
+            }
+        },
+        "documento": {
+            "tituloEleitor": {
+                "numero": {
+                    "value": "405366040132",
+                    "checked": false
+                }
+            },
+            "cpf": {
+                "numero": {
+                    "value": "81450746810",
+                    "checked": false
+                }
+            },
+            "rg": {
+                "numero": {
+                    "value": "149035482",
+                    "checked": false
+                },
+                "expedidor": {
+                    "value": null,
+                    "checked": false
+                }
+            }
+        },
+        "telefone": {
+            "celular": {
+                "prefixo": {
+                    "value": "11",
+                    "checked": false
+                },
+                "numero": {
+                    "value": "993268260",
+                    "checked": false
+                }
+            }
+        },
+        "digital": {
+            "email": {
+                "value": "",
+                "checked": false
+            }
+        }
+        }]
+    }
